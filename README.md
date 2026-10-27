@@ -54,7 +54,7 @@ I'm a student learning to build software — focused on writing clean code, unde
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kakaninivas9&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kakaninivas9&theme=github-dark&hide_border=true&area=true" alt="Contribution Activity Graph" />
 </p>
 
 ---
