@@ -1,86 +1,59 @@
 <div align="center">
 
-# Sainivas Kakani
+![Kakani Sai Nivas — Computer Science, Artificial Intelligence and Machine Learning](assets/banner.svg)
 
-**Student &nbsp;·&nbsp; Aspiring Software Developer**
+# Hi, I'm Kakani Sai Nivas 👋
 
-I'm a student learning to build software — focused on writing clean code, understanding data structures, and getting comfortable with the full web stack. Currently deepening my skills in Java, Python, and front-end development while working on small projects that solve real problems.
+**B.Tech CSE (AI & ML) Student · 3rd Year**
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/kakaninivas9)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sainivas-kakani/)
+Exploring software development and AI/ML through practical applications.
 
-</div>
-
----
-
-## About
-
-- 🎓 Student actively building programming fundamentals
-- 🌱 Learning **Java**, **Python**, and **Web Development**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 💡 Interested in software that solves practical everyday problems
-- 🚀 Goal: become a proficient, employable software developer
-
----
-
-## Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-## GitHub Analytics
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kakaninivas9&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakaninivas9&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kakaninivas9&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Contribution Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kakaninivas9&theme=github-dark&hide_border=true&area=true" alt="Contribution Activity Graph" />
-</p>
-
----
-
-## Trophies
-
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=kakaninivas9&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kakaninivas9/kakaninivas9/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kakaninivas9/kakaninivas9/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/kakaninivas9/kakaninivas9/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
-<div align="center">
-
-*Learn · Build · Improve · Repeat*
+[![GitHub](https://img.shields.io/badge/GitHub-kakaninivas9-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kakaninivas9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sainivas_Kakani-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/sainivas-kakani/)
 
 </div>
+
+## About me
+
+I'm a third-year **B.Tech student in Computer Science and Engineering (Artificial Intelligence & Machine Learning)** at **Geethanjali Institute of Science and Technology (GIST), Nellore, Andhra Pradesh**.
+
+I'm developing my skills in **Java, Python, web development, and data structures and algorithms**. My interests include software development, AI/ML, and building practical applications, especially tools for **crop protection and plant disease detection**.
+
+## What I'm learning
+
+| Area | Current focus |
+| :--- | :--- |
+| Programming | Developing my Java and Python skills |
+| Web development | Learning to build applications for the web |
+| Problem solving | Strengthening data structures and algorithms |
+| AI & ML | Exploring applications in crop protection and plant disease detection |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Learning Java" />
+  <img src="https://img.shields.io/badge/Learning-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Learning Python" />
+  <img src="https://img.shields.io/badge/Learning-Web_Development-0891B2?style=flat-square" alt="Learning web development" />
+  <img src="https://img.shields.io/badge/Practicing-DSA-7C3AED?style=flat-square" alt="Practicing data structures and algorithms" />
+</p>
+
+## What I want to build
+
+I'm interested in applying what I learn to:
+
+- **Crop protection:** practical tools that support healthier crops.
+- **Plant disease detection:** applications that explore AI/ML for identifying plant diseases.
+- **Everyday problem solving:** useful software that addresses real needs.
+
+## Explore my work
+
+Visit [my GitHub repositories](https://github.com/kakaninivas9?tab=repositories) to explore my projects and learning progress.
+
+## Connect with me
+
+I'm interested in connecting with people learning and building in **software development, AI/ML, and agricultural applications**.
+
+- [LinkedIn — Sainivas Kakani](https://www.linkedin.com/in/sainivas-kakani/)
+- [GitHub — kakaninivas9](https://github.com/kakaninivas9)
+
+---
+
+<p align="center"><i>Learn with curiosity. Build with purpose.</i></p>
