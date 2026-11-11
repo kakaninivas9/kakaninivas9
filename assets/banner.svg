@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Kakani Sai Nivas</title>
+  <desc id="desc">Technology themed banner with a dark navy background and cyan circuit lines. Computer Science student exploring software development and AI.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#081325"/><stop offset="1" stop-color="#112d42"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#7dd3fc" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+  <g fill="none" stroke="#38bdf8" stroke-width="2" opacity=".45"><path d="M940 0v75l55 55h205M1200 190h-130l-60 60v70M1100 0v55l-50 50M870 320v-65l65-65h80"/><circle cx="995" cy="130" r="6"/><circle cx="1015" cy="190" r="6"/><circle cx="1050" cy="105" r="6"/></g>
+  <rect x="68" y="66" width="48" height="5" rx="2" fill="#38bdf8"/>
+  <text x="68" y="132" fill="#f1f5f9" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700">Kakani Sai Nivas</text>
+  <text x="70" y="179" fill="#7dd3fc" font-family="Segoe UI,Arial,sans-serif" font-size="23">Computer Science · Artificial Intelligence &amp; Machine Learning</text>
+  <text x="70" y="238" fill="#cbd5e1" font-family="Segoe UI,Arial,sans-serif" font-size="20">Learn with curiosity. Build with purpose.</text>
+</svg>
