@@ -2,6 +2,10 @@
 
 ![Kakani Sai Nivas — Computer Science, Artificial Intelligence and Machine Learning](assets/banner.svg)
 
+<p align="center">
+  <img src="assets/portrait-dot-matrix.png" width="360" alt="Kakani Sai Nivas — monochrome dot-matrix portrait with cyan border" />
+</p>
+
 # Hi, I'm Kakani Sai Nivas 👋
 
 **B.Tech CSE (AI & ML) Student · 3rd Year**
