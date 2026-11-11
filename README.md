@@ -47,6 +47,16 @@ I'm interested in applying what I learn to:
 
 Visit [my GitHub repositories](https://github.com/kakaninivas9?tab=repositories) to explore my projects and learning progress.
 
+## Certificates
+
+### Basics of Python — Infosys Springboard
+
+- **Awarded to:** Kakani Sai Nivas
+- **Completed:** November 22, 2025
+- **Credential:** Course completion certificate
+
+[![Infosys Springboard Basics of Python course completion certificate](assets/certificates/infosys-basics-of-python.png)](assets/certificates/infosys-basics-of-python.png)
+
 ## Connect with me
 
 I'm interested in connecting with people learning and building in **software development, AI/ML, and agricultural applications**.
