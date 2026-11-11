@@ -43,9 +43,17 @@ I'm interested in applying what I learn to:
 - **Plant disease detection:** applications that explore AI/ML for identifying plant diseases.
 - **Everyday problem solving:** useful software that addresses real needs.
 
-## Explore my work
+## Featured projects
 
-Visit [my GitHub repositories](https://github.com/kakaninivas9?tab=repositories) to explore my projects and learning progress.
+These educational adaptations were extended with Codex assistance. Original authorship and MIT licenses are preserved in each repository.
+
+| Project | Description & improvements | Tech stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Nivas CLI Lab** | API-powered CLI generator adaptation with configuration validation, an offline study API, and 18 regression tests. | TypeScript · Node.js · Vitest | [Repository](https://github.com/kakaninivas9/Nivas-CLI-Lab) · [Original source](https://github.com/adameehanairagroup/Aira-CLI-Kit) |
+| **Nivas TinyLM Lab** | Character-level transformer training adaptation with explicit local datasets, configurable runs, improved checkpoints, and 6 regression tests. | Python · PyTorch · unittest | [Repository](https://github.com/kakaninivas9/Nivas-TinyLM-Lab) · [Original source](https://github.com/adameehanairagroup/Aira-AI-Non-Trained) |
+| **Nivas Student AI Lab** | Student language-model learning project extended with model, dataset and sampling validation, improved checkpoint timing, and 5 regression tests. | Python · PyTorch · NumPy · unittest | [Repository](https://github.com/kakaninivas9/Nivas-Student-AI-Lab) · [Original source](https://github.com/adameehanairagroup/Aira-Ai-for-students) |
+
+[Explore all my repositories](https://github.com/kakaninivas9?tab=repositories).
 
 ## Certificates
 
